@@ -1,0 +1,11 @@
+---
+# vars file for WordPress_MySQL
+
+db_pod: "mydb"
+wp_pod: "mywp"
+sql_image: "mysql:5.7"
+wp_image: "wordpress:5.1.1-php7.3-apache"
+mysql_root_password: "redhat"
+database_name: "wpdb"
+mysql_user: "prachika"
+mysql_password: "redhat"
